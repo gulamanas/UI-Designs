@@ -49,3 +49,9 @@
 
 <br>
 <a href="./product card - 06/06.svg"><img src="./product card - 06/06.png" alt=""></a>
+
+License:-
+
+- You can download it & use it anytime you want.
+- You can share it anywhere but add a small credit to me.
+- Thanks for the support. 💜
