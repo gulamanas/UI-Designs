@@ -50,6 +50,20 @@
 <br>
 <a href="./product card - 06/06.svg"><img src="./product card - 06/06.png" alt=""></a>
 
+<br>
+
+## User Profile App design
+
+<br>
+<a href="./user profile - 07/07.svg"><img src="./user profile - 07/07.png" alt=""></a>
+
+<br>
+
+## Movie App design
+
+<br>
+<a href="./movie app - 08/08.svg"><img src="./movie app - 08/08.png" alt=""></a>
+
 License:-
 
 - You can download it & use it anytime you want.
