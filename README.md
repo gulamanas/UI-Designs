@@ -66,7 +66,7 @@
 
 <br>
 
-## Movie App design
+## 404 Page Design
 
 <br>
 <a href="./page404-09/09.svg"><img src="./page404-09/09.png" alt=""></a>
